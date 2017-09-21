@@ -11,7 +11,7 @@ namespace ConfigureEditor
 		static void Main(string[] args)
 		{
             // this is  text
-            System.Console.WriteLine("Hello World");
+            //System.Console.WriteLine("Hello World");
 
 		}
 
