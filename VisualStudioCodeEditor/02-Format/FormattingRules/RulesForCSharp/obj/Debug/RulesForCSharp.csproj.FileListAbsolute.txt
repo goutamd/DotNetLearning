@@ -1,0 +1,1 @@
+C:\Courseware\PastCourses\VS2015-05-CodeEditors\Exercise Files - Updated\02-Format\FormattingRules\RulesForCSharp\bin\Debug\RulesForCSharp.exe.config

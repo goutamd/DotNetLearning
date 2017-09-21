@@ -1,0 +1,5 @@
+C:\Courseware\PastCourses\VS2015-05-CodeEditors\Exercise Files - Updated\03-Navigate\Nav\NavigatingCSharp\bin\Debug\NavigatingCSharp.exe
+C:\Courseware\PastCourses\VS2015-05-CodeEditors\Exercise Files - Updated\03-Navigate\Nav\NavigatingCSharp\bin\Debug\NavigatingCSharp.pdb
+C:\Courseware\PastCourses\VS2015-05-CodeEditors\Exercise Files - Updated\03-Navigate\Nav\NavigatingCSharp\obj\x86\Debug\NavigatingCSharp.csprojResolveAssemblyReference.cache
+C:\Courseware\PastCourses\VS2015-05-CodeEditors\Exercise Files - Updated\03-Navigate\Nav\NavigatingCSharp\obj\x86\Debug\NavigatingCSharp.exe
+C:\Courseware\PastCourses\VS2015-05-CodeEditors\Exercise Files - Updated\03-Navigate\Nav\NavigatingCSharp\obj\x86\Debug\NavigatingCSharp.pdb

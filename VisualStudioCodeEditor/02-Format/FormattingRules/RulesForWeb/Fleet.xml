@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<fleet>
+	<truck>
+		<color>Red</color>
+		<year>2008</year>
+		<make>Ford</make>
+		<license>DSD6554</license>
+		<service date ="05/05/2007" mechanic="Jenson Olec" workdone="Fixed Brakes" />
+		<service date ="04/04/2007" mechanic="Mark Halvern" workdone="Flat Tire" />
+
+	
+	</truck>
+	<truck>
+		<color>Orange</color>
+				<year>2003</year>
+		<make>Toyota</make>
+		<license>45T432</license>
+		<service date ="08/08/2007" mechanic="Jim Halvern" workdone="3 month tuneup" />
+
+	</truck>
+</fleet>

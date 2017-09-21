@@ -1,0 +1,6 @@
+﻿1.You can add your own snippets to your Visual Studio installation by using the Code Snippets Manager. Open the Code Snippets Manager (Tools/Code Snippets Manager).
+
+2.Click the Import button.
+
+3.Go to the location where you saved the code snippet  select it, and click Open.
+
