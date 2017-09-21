@@ -1,0 +1,7 @@
+D:\Office\Work\DotNet\repos\VisualStudioCodeEditor\01-Editors\01-Defaults\ConfigureEditor\bin\Debug\ConfigureEditor.exe.config
+D:\Office\Work\DotNet\repos\VisualStudioCodeEditor\01-Editors\01-Defaults\ConfigureEditor\bin\Debug\ConfigureEditor.exe
+D:\Office\Work\DotNet\repos\VisualStudioCodeEditor\01-Editors\01-Defaults\ConfigureEditor\bin\Debug\ConfigureEditor.pdb
+D:\Office\Work\DotNet\repos\VisualStudioCodeEditor\01-Editors\01-Defaults\ConfigureEditor\obj\Debug\ConfigureEditor.csprojResolveAssemblyReference.cache
+D:\Office\Work\DotNet\repos\VisualStudioCodeEditor\01-Editors\01-Defaults\ConfigureEditor\obj\Debug\ConfigureEditor.csproj.CoreCompileInputs.cache
+D:\Office\Work\DotNet\repos\VisualStudioCodeEditor\01-Editors\01-Defaults\ConfigureEditor\obj\Debug\ConfigureEditor.exe
+D:\Office\Work\DotNet\repos\VisualStudioCodeEditor\01-Editors\01-Defaults\ConfigureEditor\obj\Debug\ConfigureEditor.pdb

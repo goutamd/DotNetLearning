@@ -11,6 +11,7 @@ namespace UsingCsCodeSnippets
 		static void Main(string[] args)
 		{
 			// use the Ctrl-K, Ctrl-X combo to see a big list of snippets
+            // just a comment 
 			
 		}
 	}

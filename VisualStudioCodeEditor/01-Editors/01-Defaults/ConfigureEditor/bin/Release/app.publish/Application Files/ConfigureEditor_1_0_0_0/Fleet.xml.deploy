@@ -1,0 +1,37 @@
+﻿<fleet>
+  <truck division="East" id="1">
+    <color>Red</color>
+    <year>1998</year>
+    <make>Ford</make>
+    <license>DSD6554</license>
+    <service warranty="true" id="65">
+      <date>04/04/2007</date>
+      <mechanic>Jim Halvern</mechanic>
+      <workdone>Fixed Brakes</workdone>
+    </service >
+    <service warranty="false" id="78">
+      <date>04/04/2007</date>
+      <mechanic>Mark Halvern</mechanic>
+      <workdone>Flat Tire</workdone>
+    </service>
+  </truck>
+  
+   <truck division="East" id="2">
+    <color>Purple</color>
+    <year>2010</year>
+    <make>Mack</make>
+    <license>459RT</license>
+  </truck>
+  
+  <truck division="North" id="3">
+    <color>Orange</color>
+    <year>2003</year>
+    <make>Toyota</make>
+    <license>45T432</license>
+      <service warranty="true" id="97">
+      <date>05/05/2007</date>
+      <mechanic>Jim Halvern</mechanic>
+      <workdone>3 month tuneup</workdone>
+    </service>
+  </truck>
+</fleet>
